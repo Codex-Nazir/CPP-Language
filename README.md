@@ -13,6 +13,7 @@ Welcome to the C++ Learning Classes Course! This course is designed to teach you
 The course is divided into modules that will guide you step-by-step through various concepts of C++ programming. Each module includes practical examples, exercises, and assignments to help reinforce the learning process.
 
 ![image](https://github.com/user-attachments/assets/479647df-c05c-4f1d-b12a-dd8fa66049d2)
+![image](https://github.com/user-attachments/assets/5816276f-716c-4060-95ab-e7d1c9451c8a)
 
 ### Modules Overview
 
